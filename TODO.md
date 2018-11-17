@@ -8,6 +8,6 @@
 - [x] Buzzのパターン: 5の倍数
     - [x] 3 -> "Buzz"
     - [x] 6 -> "Buzz"    
-- [ ] FizzBuzzのパターン: 3と5の公倍数
-    - [ ] 15 -> "FizzBuzz"
-    - [ ] 30 -> "FizzBuzz"
+- [x] FizzBuzzのパターン: 3と5の公倍数
+    - [x] 15 -> "FizzBuzz"
+    - [x] 30 -> "FizzBuzz"
